@@ -98,6 +98,7 @@ Hands-On-Data-Lab/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## Project Outcome
 
